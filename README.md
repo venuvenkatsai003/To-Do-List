@@ -16,6 +16,7 @@ The React app is built and placed inside the Spring Boot `static/` directory, al
 - React (Create React App)
 - JavaScript / JSX
 - HTML, CSS
+- tailWindCSS
 
 ### **Backend**
 - Java
